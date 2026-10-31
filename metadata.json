@@ -1,0 +1,6 @@
+{
+  "name": "ObsidianNode & ShadowNet Portal",
+  "description": "Enterprise Minecraft server infrastructure provider and covert encrypted team operations portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
